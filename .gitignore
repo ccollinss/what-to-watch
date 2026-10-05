@@ -1,0 +1,17 @@
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+
+# Python / backend
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets (never commit your TMDB key)
+.env
+.env.local
+
+# macOS
+.DS_Store
